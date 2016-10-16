@@ -1,2 +1,2 @@
 # gender-stereotypes
-Code for major thesis around gender stereotypes in romantic relationships. Read the full report [here](report.pdf).
+Code for major thesis around gender stereotypes in romantic relationships. Read the full report [here](report.pdf). You can see the analysis and experiments in the Jupyter notebook, available [here](gender-stereotypes.ipynb). The notebook was built using [Jupyter](http://jupyter.org/) along with the [IRKernel](https://github.com/IRkernel/IRkernel)
